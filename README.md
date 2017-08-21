@@ -1,5 +1,7 @@
 # Canvas Particle Network
 
+Built during my internship at Unc Inc
+
 ## Usage
 
 For a barebones implementation, simply add a HTML `div` to your body. You may specify its dimensions via CSS/JavaScript without any issues, as well as specify multiple instances. Then, simply add the JavaScript file to the end of your `body` and create a `ParticleNetwork` instance using your canvas ID.
